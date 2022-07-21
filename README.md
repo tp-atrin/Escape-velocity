@@ -13,3 +13,4 @@ Escape speed at a distance d from the center of a spherically symmetric primary 
 where G is the universal gravitational constant (G ≈ 6.67*(10**-11) m3·kg−1·s−2).
 The escape speed is independent of the mass of the escaping object.
 Only solar system planets are available in this code.
+In this equation atmospheric friction (air drag) is not taken into account.
